@@ -1,0 +1,8 @@
+Container contains 7 elements.
+It is BUS: Size = 1, PowerEngine = 1
+It is TRUCK: Power = 2, PowerEngine = 2
+It is BUS: Size = 3, PowerEngine = 3
+It is TRUCK: Power = 4, PowerEngine = 4
+It is BUS: Size = 10, PowerEngine = 12
+It is TRUCK: Power = 30, PowerEngine = 40
+It is BUS: Size = 12, PowerEngine = 12
